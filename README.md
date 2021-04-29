@@ -1,2 +1,9 @@
 # MusicThings
-É um site simples, feito junto de um curso que estava fazendo. Haverá maiores modificações, após eu aprender outras tecnologias. Feito com HTML e CSS puro
+
+# Sobre
+Uma pequena landing page feita com HTML e CSS. Futuramente, irei adicionar features novas, sendo uma delas uma nova versão responsiva.
+
+
+
+# Link para ver o projeto
+https://juangomes404.github.io/MusicThings/
